@@ -2,6 +2,7 @@
 
 console.log('GOD IS THE GREATEST ALL THE TIME');
 
+console.log('great day');
 // const weatherDetails = fetch('http://localhost:3000/weather?address=toronto');
 // weatherDetails.then((res) => {
 //   res.json().then((data) => {
